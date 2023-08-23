@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Hola. Soy Hernán, una persona muy proactiva y con grandes habilidades para trabajar en este mundo de los datos. Tengo amplios conocimientos en matemática y muchas tecnologías para hacer crecer a la empresa mediante el potencial de los datos.
-Cuento con amplia experiencia desarrollando proyectos personales y grupales, y trabajando con metodologías ágiles como SCRUM. Además, me gusta ser competitivo y perseverante para lograr todos los objetivos a nivel individual y grupal.
+## Hola. Soy Hernán, una persona muy proactiva y con grandes habilidades para trabajar en este mundo de los datos. Tengo amplios conocimientos en matemática y muchas tecnologías para hacer crecer a la empresa mediante el potencial de los datos.
+## Cuento con amplia experiencia desarrollando proyectos personales y grupales, y trabajando con metodologías ágiles como SCRUM. Además, me gusta ser competitivo y perseverante para lograr todos los objetivos a nivel individual y grupal.
 
-Contacto: hernanmagister@gmail.com
+## Contacto: hernanmagister@gmail.com
 
 <!--
 **hernandroz/hernandroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
